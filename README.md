@@ -10,6 +10,8 @@ RETROFIT + GSON + OKHTTP
 
 http://engineering.meetme.com/2014/03/best-practices-for-consuming-apis-on-android/
 
+https://futurestud.io/blog/retrofit-getting-started-and-android-client
+
 PATRON MVP
 
 http://magenic.com/BlogArchive/AnMVPPatternforAndroid
