@@ -1,4 +1,4 @@
-# URLs
+# URLs 
 
 INYECCION DE DEPENDENCIAS CON DAGGER
 
@@ -6,7 +6,7 @@ https://medium.com/@JorgeCastilloPr/injeccion-de-dependencias-con-dagger-1e202d1
 
 http://gregloesch.com/dev/2014/10/19/resources-for-learning-dagger-for-android.html
 
-RETROFIT + GSON + OKHTTP 
+RETROFIT + GSON + OKHTTP
 
 http://engineering.meetme.com/2014/03/best-practices-for-consuming-apis-on-android/
 
